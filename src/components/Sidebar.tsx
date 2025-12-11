@@ -1,5 +1,5 @@
 import { LayoutDashboard, Plus, ShoppingBag, Package, CreditCard, Settings, Moon, Sun, Wifi, Menu, X } from "lucide-react";
-import logo from "figma:asset/74f522c553e649f661d685c0730f8169366ca5c7.png";
+import logo from  "../assets/logo.png"
 import { useTheme } from "../context/ThemeContext";
 
 interface SidebarProps {
